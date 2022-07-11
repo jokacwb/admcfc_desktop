@@ -35,6 +35,9 @@ migrate_working_dir/
 # Web related
 lib/generated_plugin_registrant.dart
 
+#credenciais da autenticacao github
+lib/github_oauth_credentials.dart
+
 # Symbolication related
 app.*.symbols
 
@@ -45,3 +48,4 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
